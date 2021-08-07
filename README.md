@@ -26,17 +26,3 @@
 //8. Visualize the test set result
 
 
-
-//Sample Dataset used here
-A3 B3
-12 39
-20 36
-28 30
-18 52
-29 54
-33 46
-24 55
-45 59
-45 63
-52 70
-
